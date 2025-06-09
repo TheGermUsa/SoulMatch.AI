@@ -66,8 +66,7 @@ Let’s build **the last dating app anyone ever needs** — because it’s not a
 
 ## 📬 Connect With Me  
 - **GitHub Issues**: questions, suggestions, or skill offers  
-- **Email**: [your-burner-email@example.com] — only for this project  
-- **Matrix / XMPP**: [optional secure chat info]
+- **Email**: jrod6942969@gmail.com — only for this project  
 
 ---
 
